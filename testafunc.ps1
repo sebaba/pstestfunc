@@ -1,0 +1,4 @@
+function testafunc
+{
+  echo 'hi';
+}
